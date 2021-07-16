@@ -6,7 +6,8 @@ class Homepage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Login"),
+        title: Text("""
+          Welcome"""),
       ),
       body: Center(
         child: Container(
