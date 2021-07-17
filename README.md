@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+## This just a test Project to understand how git works xD
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
