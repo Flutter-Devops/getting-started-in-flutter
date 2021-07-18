@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-## This just a test Project to understand how git works xD
+## This is xD 1.0
+
 
 ## Getting Started
 
